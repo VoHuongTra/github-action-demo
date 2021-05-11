@@ -1,0 +1,22 @@
+{
+  "name": "testci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoHuongTra/github-action-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoHuongTra/github-action-demo/issues"
+  },
+  "homepage": "https://github.com/VoHuongTra/github-action-demo#readme",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
